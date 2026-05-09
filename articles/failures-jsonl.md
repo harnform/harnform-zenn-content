@@ -8,6 +8,7 @@ topics:
 - operations
 - postmortem
 published: true
+published_at: 2026-05-18 09:00
 ---
 
 # 同じバグを3回踏んでから、ようやくノートを取り始めた話
