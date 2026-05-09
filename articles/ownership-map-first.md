@@ -7,6 +7,7 @@ topics:
 - agents
 - operations
 published: true
+published_at: 2026-05-11 09:00
 ---
 
 # systemctl active なのに、12時間出力が止まっていた話
