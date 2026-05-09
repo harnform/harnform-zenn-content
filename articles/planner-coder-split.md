@@ -8,6 +8,7 @@ topics:
 - promptengineering
 - architecture
 published: true
+published_at: 2026-05-15 09:00
 ---
 
 # 「今回はちゃんと設計してから渡そう」を、毎回飛ばしていた話
