@@ -8,6 +8,7 @@ topics:
 - reliability
 - architecture
 published: true
+published_at: 2026-05-22 09:00
 ---
 
 # AIに「失敗したら呼んで」と頼んだら、毎日10回呼ばれるようになった話
