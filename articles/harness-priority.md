@@ -8,6 +8,7 @@ topics:
 - promptengineering
 - contextengineering
 published: true
+published_at: 2026-05-09 22:00
 ---
 
 # AIに作業を任せたら、毎回説明し直す仕事が増えた話
