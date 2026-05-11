@@ -7,7 +7,7 @@ topics:
 - promptengineering
 - contextengineering
 - productivity
-published: true
+published: false
 published_at: 2026-05-20 09:00
 ---
 
